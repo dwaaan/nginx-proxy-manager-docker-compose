@@ -3,7 +3,7 @@ Docker Compose file for Nginx Proxy Manager
 
 A Mulitple host reverse proxy solution for your home network using docker
 More info:
-https://github.com/jc21/nginx-proxy-manager
+https://github.com/jc21/nginx-proxy-manager and 
 https://hub.docker.com/r/jc21/nginx-proxy-manager/
 
 ## Instructions
