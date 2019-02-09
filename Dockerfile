@@ -1,4 +1,4 @@
-FROM jc21/nginx-proxy-manager:2t
+FROM jc21/nginx-proxy-manager:2
 
 MAINTAINER torn <torns@qq.com>
 
