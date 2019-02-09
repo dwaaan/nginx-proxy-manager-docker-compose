@@ -1,10 +1,10 @@
 {
   "database": {
     "engine": "mysql",
-    "host": "mysql-server-host",
-    "name": "database-name",
-    "user": "database-user",
-    "password": "database-password",
+    "host": "39.104.127.88",
+    "name": "NginxProxyManager",
+    "user": "root",
+    "password": "QQxx1100",
     "port": 3306
   }
 }
