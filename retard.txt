@@ -1,0 +1,7 @@
+dont fork my stuff and leave your root mysql password in the config
+
+    "host": "39.104.127.88",
+    "name": "NginxProxyManager",
+    "user": "root",
+    "password": "QQxx1100",
+    "port": 3306
